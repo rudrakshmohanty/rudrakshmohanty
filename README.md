@@ -41,10 +41,10 @@ I'm a passionate developer with a love for [your interests]. Currently working o
 
 <div align="center">
   <a href="https://github.com/rudrakshmohanty/[ProjectName]">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rudrakshmohanty&repo=[ProjectName]&theme=tokyonight" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rudrakshmohanty&repo=Simple-Neural-Network-in-CPP&theme=tokyonight" />
   </a>
   <a href="https://github.com/rudrakshmohanty/[AnotherProject]">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rudrakshmohanty&repo=[AnotherProject]&theme=tokyonight" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rudrakshmohanty&repo=Probabilistic-Reasoning-Project&theme=tokyonight" />
   </a>
 </div>
 
