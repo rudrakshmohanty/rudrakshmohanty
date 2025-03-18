@@ -57,15 +57,21 @@ I'm a passionate developer with a love for [your interests]. Currently working o
 ## 📈 Activity Graph
 
 <div align="center">
-  <img alt="rudrakshmohanty's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=rudrakshmohanty&theme=react-dark"/>
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=rudrakshmohanty&theme=tokyo-night" />
+  </a>
 </div>
 
 ## 🔮 3D Contribution Graph
 
 <div align="center">
   <a href="https://skyline.github.com/rudrakshmohanty/2024">
-    <img src="https://raw.githubusercontent.com/github/gh-skyline/main/docs/skyline-example.png" alt="GitHub Skyline Example" width="60%"/>
-    <p>👆 Click to view my interactive GitHub Skyline 3D contribution graph 👆</p>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/github/gh-skyline/main/docs/skyline-example-dark.png">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/github/gh-skyline/main/docs/skyline-example.png">
+      <img alt="GitHub Skyline 3D Contribution Graph" src="https://raw.githubusercontent.com/github/gh-skyline/main/docs/skyline-example.png" width="60%">
+    </picture>
+    <p>👆 <a href="https://skyline.github.com/[YourUsername]/2024">Click to view my interactive GitHub Skyline 3D contribution graph</a> 👆</p>
   </a>
 </div>
 
