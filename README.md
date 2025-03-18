@@ -86,7 +86,7 @@ I'm a passionate developer with a love for [your interests]. Currently working o
 ## 🎧 Spotify Playing
 
 <div align="center">
-  <a href="https://open.spotify.com/rudrakshmohanty1080/">
+  <a href="https://open.spotify.com/user/rudrakshmohanty1080">
     <img src="https://now-playing-profile.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/>
   </a>
 </div>
