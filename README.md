@@ -89,10 +89,9 @@ I'm a passionate developer with a love for [your interests]. Currently working o
 
 <div align="center">
   <img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Chess-000000?style=for-the-badge&logo=lichess&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Poetry-9C27B0?style=for-the-badge&logo=read-the-docs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Photography-0078D4?style=for-the-badge&logo=canva&logoColor=white"/>
 </div>
-
 ---
 
 <div align="center">
