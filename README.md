@@ -9,8 +9,8 @@
 I'm a passionate developer with a love for [your interests]. Currently working on [current project/focus]. I enjoy solving complex problems and creating elegant solutions.
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Focus-Frontend%20Development-brightgreen"/>
-  <img src="https://img.shields.io/badge/Learning-Cloud%20Architecture-blue"/>
+  <img src="https://img.shields.io/badge/Focus-Cpp-brightgreen"/>
+  <img src="https://img.shields.io/badge/Learning-Computer%20Security-blue"/>
   <img src="https://img.shields.io/badge/Love-Open%20Source-red"/>
 </div>
 
