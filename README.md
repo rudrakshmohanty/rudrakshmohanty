@@ -1,12 +1,10 @@
 # Hi there, I'm Rudraksh Mohanty 👋
+### AI/ML & Big Data Enthusiast | Cybersecurity & Speech Processing Researcher
+Hi! I'm a passionate developer working on AI/ML, big data analytics, and cybersecurity. My projects span fraud detection, speech processing, histopathology classification, and phishing website analysis using cutting-edge technologies like Deep Learning, Apache Spark, Wireshark, and Blockchain.
 
 <div align="center">
   <img src="https://github.com/rudrakshmohanty/rudrakshmohanty/blob/main/header.gif" alt="Header" width="100%"/>
 </div>
-
-## 🚀 About Me
-
-I'm a passionate developer with a love for [your interests]. Currently working on [current project/focus]. I enjoy solving complex problems and creating elegant solutions.
 
 <div align="center">
   <img src="https://img.shields.io/badge/Focus-C++-brightgreen"/>
