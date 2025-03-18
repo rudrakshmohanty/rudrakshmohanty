@@ -63,10 +63,19 @@ I'm a passionate developer with a love for [your interests]. Currently working o
 ## 🔮 3D Contribution Graph
 
 <div align="center">
-  <a href="https://skyline.github.com/rudrakshmohanty/2023">
-    <img src="https://github.com/rudrakshmohanty/rudrakshmohanty/blob/main/skyline.gif" alt="GitHub Skyline" width="60%"/>
+  <a href="https://skyline.github.com/rudrakshmohanty/2024">
+    <img src="https://raw.githubusercontent.com/github/gh-skyline/main/docs/skyline-example.png" alt="GitHub Skyline Example" width="60%"/>
+    <p>👆 Click to view my interactive GitHub Skyline 3D contribution graph 👆</p>
   </a>
-  <p>Click to view my GitHub Skyline in 3D 👆</p>
+</div>
+
+## 📊 More Stats
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rudrakshmohanty&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rudrakshmohanty&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rudrakshmohanty&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rudrakshmohanty&theme=tokyonight" />
 </div>
 
 ## 🌐 Connect with Me
@@ -80,14 +89,6 @@ I'm a passionate developer with a love for [your interests]. Currently working o
   </a>
   <a href="https://dev.to/rudraksh_mohanty">
     <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/>
-  </a>
-</div>
-
-## 🎧 Spotify Playing
-
-<div align="center">
-  <a href="https://open.spotify.com/user/rudrakshmohanty1080">
-    <img src="https://now-playing-profile.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/>
   </a>
 </div>
 
