@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Rudraksh Mohanty 👋
 
 <div align="center">
   <img src="https://github.com/rudrakshmohanty/rudrakshmohanty/blob/main/header.gif" alt="Header" width="100%"/>
@@ -72,13 +72,13 @@ I'm a passionate developer with a love for [your interests]. Currently working o
 ## 🌐 Connect with Me
 
 <div align="center">
-  <a href="https://twitter.com/[YourTwitterUsername]">
+  <a href="https://twitter.com/rudrakshmohanty1080">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
   <a href="https://linkedin.com/in/[YourLinkedInUsername]">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://dev.to/[YourDevToUsername]">
+  <a href="https://dev.to/rudraksh_mohanty">
     <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/>
   </a>
 </div>
@@ -86,7 +86,7 @@ I'm a passionate developer with a love for [your interests]. Currently working o
 ## 🎧 Spotify Playing
 
 <div align="center">
-  <a href="https://open.spotify.com/user/[YourSpotifyUsername]">
+  <a href="https://open.spotify.com/user/">
     <img src="https://now-playing-profile.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/>
   </a>
 </div>
