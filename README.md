@@ -15,14 +15,14 @@ Hi! I'm a passionate developer working on AI/ML, big data analytics, and cyberse
 ## 📊 My GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rudrakshmohanty&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rudrakshmohanty&show_icons=true&theme=tokyonight"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudrakshmohanty&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 ## 🔥 Streak Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rudrakshmohanty&theme=tokyonight" alt="rudrakshmohanty's streak"/>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=rudrakshmohanty&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></a>
 </div>
 
 ## 🛠️ Tech Stack
