@@ -164,7 +164,7 @@ Learning:
   - Blockchain Technology
   - Computer Vision
 
-Goals 2024:
+Goals 2025:
   - Contribute to major open-source ML libraries
   - Publish research papers in AI/ML
   - Build production-ready AI solutions
