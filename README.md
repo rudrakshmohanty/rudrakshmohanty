@@ -112,10 +112,6 @@ me.say_hi()
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudrakshmohanty&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rudrakshmohanty&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</div>
-
 ---
 
 ## 🚀 Featured Projects
